@@ -1,0 +1,5 @@
+main/java/com/hiking/controller/ErrorController.java
+main/resources/*
+main/webapp/WEB-INF/config/*
+main/webapp/WEB-INF/images/*
+main/webapp/WEB-INF/web.xml
